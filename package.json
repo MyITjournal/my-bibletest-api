@@ -2,7 +2,7 @@
   "name": "bible-api-project",
   "version": "1.0.0",
   "description": "Just a simple Bible api project",
-  "main": "y",
+  "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
