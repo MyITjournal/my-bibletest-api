@@ -1,0 +1,24 @@
+{
+  "name": "bible-api-project",
+  "version": "1.0.0",
+  "description": "Just a simple Bible api project",
+  "main": "y",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyITjournal/my-bibletest-api.git"
+  },
+  "keywords": [
+    "bible",
+    "verse",
+    "chapter"
+  ],
+  "author": "Ade Adebayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyITjournal/my-bibletest-api/issues"
+  },
+  "homepage": "https://github.com/MyITjournal/my-bibletest-api#readme"
+}
